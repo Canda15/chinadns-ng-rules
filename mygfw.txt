@@ -1,4 +1,5 @@
 browserleaks.com
+browserleaks.org
 ipleak.net
 addr.tools
 dnscheck.tools

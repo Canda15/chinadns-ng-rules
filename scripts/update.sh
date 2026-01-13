@@ -40,11 +40,15 @@ FILE_MY_CN="mycn.txt"
 FILE_FINAL_CN="final_cn.txt"
 
 
-# ================= GFW 规则源 (被墙列表) =================
+# ================= GFW 规则源 =================
 
 # 1. Pexcn (GFW List)
 URL_PEXCN_GFW="https://raw.githubusercontent.com/pexcn/daily/gh-pages/gfwlist/gfwlist.txt"
 FILE_PEXCN_GFW="gfw-chinadns-ng.txt"
+
+# 2. Loyalsoldier (GFW List) [新增]
+URL_LOYAL_GFW="https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt"
+FILE_LOYAL_GFW="gfw-v2ray.txt"
 
 # 自定义 GFW 文件 (你的库里的文件)
 FILE_MY_GFW="mygfw.txt"
@@ -81,10 +85,6 @@ curl -4fsSkL "$URL_LOYAL_CHINA" | grep -v -e '^[[:space:]]*$' -e '^[[:space:]]*#
 
 # --- 5. Loyalsoldier Google CN (特殊: 提取 full 后两段) ---
 echo "处理 Loyalsoldier Google CN..."
-# 逻辑：
-# 1. grep 筛选 full: 开头的行
-# 2. sed 删除 "full:"
-# 3. awk 以点分割，提取最后两段 (如 a.b.com -> b.com)
 curl -4fsSkL "$URL_LOYAL_GOOGLE" | \
 grep '^full:' | \
 sed 's/^full://' | \
@@ -93,9 +93,6 @@ sort | uniq > "$FILE_LOYAL_GOOGLE"
 
 # --- 6. ACL4SSR Clash (特殊: 提取 DOMAIN/DOMAIN-SUFFIX) ---
 echo "处理 ACL4SSR Clash..."
-# 逻辑：
-# 1. grep 匹配以 DOMAIN-SUFFIX, 或 DOMAIN, 开头的行
-# 2. awk 以逗号分割，打印第二列
 curl -4fsSkL "$URL_ACL4SSR" | \
 grep -E '^(DOMAIN-SUFFIX|DOMAIN),' | \
 awk -F, '{print $2}' | \
@@ -108,10 +105,14 @@ echo "=== 开始下载并处理 GFW 规则 ==="
 echo "处理 Pexcn GFW..."
 curl -4fsSkL "$URL_PEXCN_GFW" | grep -v -e '^[[:space:]]*$' -e '^[[:space:]]*#' | sort | uniq > "$FILE_PEXCN_GFW"
 
+# --- 2. Loyalsoldier GFW [新增] ---
+echo "处理 Loyalsoldier GFW..."
+curl -4fsSkL "$URL_LOYAL_GFW" | grep -v -e '^[[:space:]]*$' -e '^[[:space:]]*#' | sort | uniq > "$FILE_LOYAL_GFW"
+
 
 echo "=== 开始合并文件 ==="
 
-# 合并 CN (注意：移除了 echo "cn"，完全依赖文件内容)
+# 合并 CN
 echo "正在生成 $FILE_FINAL_CN ..."
 {
     [ -f "$FILE_FELIX" ] && cat "$FILE_FELIX"
@@ -128,6 +129,7 @@ echo "正在生成 $FILE_FINAL_CN ..."
 echo "正在生成 $FILE_FINAL_GFW ..."
 {
     [ -f "$FILE_PEXCN_GFW" ] && cat "$FILE_PEXCN_GFW"
+    [ -f "$FILE_LOYAL_GFW" ] && cat "$FILE_LOYAL_GFW"
     [ -f "$FILE_MY_GFW" ] && cat "$FILE_MY_GFW"
 } | sort -u > "$FILE_FINAL_GFW"
 
@@ -155,7 +157,7 @@ cat > README.md <<EOF
 | 类型 | 文件名 | 规则总数 | 文件大小 |
 | :--- | :--- | :--- | :--- |
 | **CN (直连)** | **${FILE_FINAL_CN}** | **${CN_COUNT}** | **${CN_SIZE}** |
-| **GFW (被墙)** | **${FILE_FINAL_GFW}** | **${GFW_COUNT}** | **${GFW_SIZE}** |
+| **GFW** | **${FILE_FINAL_GFW}** | **${GFW_COUNT}** | **${GFW_SIZE}** |
 
 ## 📂 详细来源文件
 
@@ -176,6 +178,7 @@ cat > README.md <<EOF
 | :--- | :--- | :--- | :--- |
 | **自定义** | ${FILE_MY_GFW} | $(get_count "$FILE_MY_GFW") | $(get_size "$FILE_MY_GFW") |
 | Pexcn | ${FILE_PEXCN_GFW} | $(get_count "$FILE_PEXCN_GFW") | $(get_size "$FILE_PEXCN_GFW") |
+| Loyal (GFW) | ${FILE_LOYAL_GFW} | $(get_count "$FILE_LOYAL_GFW") | $(get_size "$FILE_LOYAL_GFW") |
 
 EOF
 

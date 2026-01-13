@@ -20,18 +20,18 @@ FILE_XMDHS_TEMP="cn-ext-chnlist.txt"
 
 # 4. Loyalsoldier (Direct & China)
 URL_LOYAL_DIRECT="https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt"
-FILE_LOYAL_DIRECT="cn-loyal-direct.txt"
+FILE_LOYAL_DIRECT="cn-v2ray-direct.txt"
 
 URL_LOYAL_CHINA="https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/china-list.txt"
-FILE_LOYAL_CHINA="cn-loyal-china.txt"
+FILE_LOYAL_CHINA="cn-v2ray-china.txt"
 
 # 5. Loyalsoldier (Google CN - 特殊处理)
 URL_LOYAL_GOOGLE="https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/google-cn.txt"
-FILE_LOYAL_GOOGLE="cn-loyal-google.txt"
+FILE_LOYAL_GOOGLE="cn-v2ray-googlecn.txt"
 
 # 6. ACL4SSR (Clash - 特殊处理)
 URL_ACL4SSR="https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list"
-FILE_ACL4SSR="cn-acl4ssr.txt"
+FILE_ACL4SSR="cn-acl4ssr-clash.txt"
 
 # 自定义 CN 文件 (你的库里的文件)
 FILE_MY_CN="mycn.txt"
@@ -176,13 +176,6 @@ cat > README.md <<EOF
 | :--- | :--- | :--- | :--- |
 | **自定义** | ${FILE_MY_GFW} | $(get_count "$FILE_MY_GFW") | $(get_size "$FILE_MY_GFW") |
 | Pexcn | ${FILE_PEXCN_GFW} | $(get_count "$FILE_PEXCN_GFW") | $(get_size "$FILE_PEXCN_GFW") |
-
-## 🔗 数据源链接
-- [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)
-- [pexcn/daily](https://github.com/pexcn/daily)
-- [xmdhs/cn-domain-list](https://github.com/xmdhs/cn-domain-list)
-- [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)
-- [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR)
 
 EOF
 

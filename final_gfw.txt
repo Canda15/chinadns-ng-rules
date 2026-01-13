@@ -1,4 +1,3 @@
-
 000webhost.com
 030buy.com
 0rz.tw
@@ -164,6 +163,7 @@ aculo.us
 adcex.com
 addictedtocoffee.de
 addons.mozilla.org
+addr.tools
 addyoutube.com
 adelaidebbs.com
 adguard-vpn.com
@@ -754,6 +754,8 @@ brizzly.com
 broadbook.com
 broadpressinc.com
 brookings.edu
+browserleaks.com
+browserleaks.net
 brucewang.net
 brutaltgp.com
 bsky.app
@@ -1362,8 +1364,10 @@ dns05.com
 dns1.us
 dns2.us
 dns2go.com
+dnscheck.tools
 dnscrypt.org
 dnset.com
+dnsleaktest.com
 dnsrd.com
 dnssec.net
 dnvod.tv
@@ -1753,6 +1757,7 @@ firetweet.io
 firstpost.com
 firstrade.com
 fish.audio
+flagcdn.com
 flagsonline.it
 flecheinthepeche.fr
 fleshbot.com
@@ -2758,6 +2763,7 @@ investigating.wordpress.com
 invidio.us
 inxian.com
 iownyour.org
+ipcheck.ing
 ipdefenseforum.com
 ipfire.org
 ipfs.4everland.io
@@ -2768,10 +2774,12 @@ iphonix.fr
 ipicture.ru
 ipify.org
 ipjetable.net
+ipleak.net
 ipobar.com
 ipoock.com
 iportal.me
 ippotv.com
+ippure.com
 ipredator.se
 iptv.com.tw
 iptvbin.com
@@ -3943,6 +3951,7 @@ pin-cong.com
 pin6.com
 pincong.rocks
 ping.fm
+ping0.cc
 pinimg.com
 pinkrod.com
 pinoy-n.com
@@ -4103,6 +4112,7 @@ ptt.cc
 pttgame.com
 pttvan.org
 ptwxz.com
+pubipa.com
 pubu.com.tw
 puffinbrowser.com
 puffstore.com
@@ -4197,6 +4207,7 @@ rcam.target.com
 rcinet.ca
 rconversation.blogs.com
 rd.com
+rdap.apnic.net
 reabble.com
 read01.com
 read100.com
@@ -4727,6 +4738,7 @@ suprememastertv.com
 surfeasy.com
 surfeasy.com.au
 surfshark.com
+surfsharkdns.com
 suroot.com
 surrenderat20.net
 svsfx.com

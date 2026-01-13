@@ -1,23 +1,40 @@
 # Domain Rules Auto-Update
 
-自动更新的域名列表。
+自动聚合多个源的域名列表 (CN直连 / GFW被墙)。
 
-- **更新时间**: 2026-01-13 17:46:09
+- **上次更新**: 2026-01-13 18:12:11
 
-## 文件统计
+## 📊 汇总统计
 
-| 文件名 | 描述 | 包含规则数 | 文件大小 |
+| 类型 | 文件名 | 规则总数 | 文件大小 |
 | :--- | :--- | :--- | :--- |
-| **final_cn.txt** | **最终合并的中国域名列表 (含自定义)** | **138749** | **1.7M** |
-| **final_gfw.txt** | **最终合并的 GFW 列表 (含自定义)** | **6000** | **80K** |
-| cn-dnsmasq-china-list.txt | Felixonmars dnsmasq-china-list | 113907 | 1.4M |
-| cn-chinadns-ng.txt | Pexcn chinalist | 114205 | 1.4M |
-| gfw-chinadns-ng.txt | Pexcn gfwlist | 5999 | 80K |
+| **CN (直连)** | **final_cn.txt** | **140282** | **1.7M** |
+| **GFW (被墙)** | **final_gfw.txt** | **6000** | **80K** |
 
-## 数据源
+## 📂 详细来源文件
 
-1. [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)
-2. [pexcn/daily](https://github.com/pexcn/daily)
-3. [xmdhs/cn-domain-list](https://github.com/xmdhs/cn-domain-list)
-4. 自定义规则: `mycn.txt`, `mygfw.txt`
+### CN 类 (China List)
+| 来源 | 临时文件名 | 数量 | 大小 |
+| :--- | :--- | :--- | :--- |
+| **自定义** | mycn.txt | 387 | 8.0K |
+| Felixonmars | cn-dnsmasq-china-list.txt | 113907 | 1.4M |
+| Pexcn | cn-chinadns-ng.txt | 114205 | 1.4M |
+| Xmdhs | cn-ext-chnlist.txt | 37115 | 448K |
+| Loyal (Direct) | cn-loyal-direct.txt | 114983 | 1.4M |
+| Loyal (China) | cn-loyal-china.txt | 114045 | 1.4M |
+| Loyal (Google) | cn-loyal-google.txt | 65 | 4.0K |
+| ACL4SSR | cn-acl4ssr.txt | 609 | 8.0K |
+
+### GFW 类 (GFW List)
+| 来源 | 临时文件名 | 数量 | 大小 |
+| :--- | :--- | :--- | :--- |
+| **自定义** | mygfw.txt | 1 | 4.0K |
+| Pexcn | gfw-chinadns-ng.txt | 5999 | 80K |
+
+## 🔗 数据源链接
+- [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)
+- [pexcn/daily](https://github.com/pexcn/daily)
+- [xmdhs/cn-domain-list](https://github.com/xmdhs/cn-domain-list)
+- [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)
+- [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR)
 

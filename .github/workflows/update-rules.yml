@@ -1,0 +1,53 @@
+name: Update Domain Lists
+
+on:
+  # 手动触发
+  workflow_dispatch:
+  # 定时触发
+  schedule:
+    # 每天北京时间 04:00 运行 (UTC 20:00)
+    - cron: '0 20 * * *'
+    
+    #如果你想每3天运行一次，请注释掉上面，解开下面这行的注释：
+    #- cron: '0 20 */3 * *'
+    
+    #如果你想每7天运行一次，请注释掉上面，解开下面这行的注释：
+    #- cron: '0 20 */7 * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq curl git
+
+      - name: Create local files if not exists
+        # 防止第一次运行因缺少自定义文件报错
+        run: |
+          touch mycn.txt
+          touch mygfw.txt
+
+      - name: Run Update Script
+        run: |
+          chmod +x ./scripts/update.sh
+          ./scripts/update.sh
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # 检查是否有文件变动
+          if [[ -n $(git status -s) ]]; then
+            git add .
+            git commit -m "Auto update domain lists: $(date +'%Y-%m-%d')"
+            git push
+          else
+            echo "No changes found. Skipping push."
+          fi

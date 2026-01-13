@@ -1,1 +1,15 @@
-
+browserleaks.com
+ipleak.net
+addr.tools
+dnscheck.tools
+cloudflare-dns.com
+rdap.apnic.net
+pubipa.com
+surfsharkdns.com
+ping0.cc
+ippure.com
+browserleaks.net
+flagcdn.com
+ipcheck.ing
+dnsleaktest.com
+whoer.net

@@ -5045,6 +5045,8 @@
 391.net
 391065.com
 3911.com
+3913.com
+3917.com
 391k.com
 392766.net
 393.com
@@ -15819,6 +15821,7 @@ awsdns-cn-21.net
 awsdns-cn-22.com
 awsdns-cn-22.net
 awsdns-cn-23.com
+awsdns-cn-23.net
 awsdns-cn-24.biz
 awsdns-cn-24.com
 awsdns-cn-24.net
@@ -15900,6 +15903,7 @@ awsdns-cn-62.biz
 awsdns-cn-62.com
 awsdns-cn-62.net
 awsdns-cn-63.biz
+awsdns-cn-63.com
 awsdns-cn-63.net
 awsdns-vip.com
 awskky.com
@@ -33618,6 +33622,7 @@ datagear.tech
 dataget.cc
 datagrand.com
 dataheiheihome.com
+datahome2026.com
 datahub7.net
 datahubtrack.com
 datahuif.com
@@ -40554,6 +40559,7 @@ exezhanqun.com
 exfnrx.cn
 exfree.com
 exhera.com
+exhobby.com
 exia.xyz
 exiaoba.com
 exida.com.cn
@@ -79469,6 +79475,7 @@ ma3you.com
 ma5000.com
 maa.plus
 maaa.cc
+maaend.com
 maanhui.com
 maasdk.com
 maavigi.xyz
@@ -119660,6 +119667,7 @@ wenxiaozhan.com
 wenxiaozhan.net
 wenxin-ge.com
 wenxin9.com
+wenxinapp.com
 wenxingonline.com
 wenxiql.com
 wenxiu.com

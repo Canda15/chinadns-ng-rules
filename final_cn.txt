@@ -44462,6 +44462,7 @@ full:time.xtracloud.net
 full:tj-pod1-smp-device.apple.com
 full:tools.google.com
 full:tools.l.google.com
+full:tp.louisvuitton.com
 full:uberproxy-debug4.corp.google.com
 full:uberproxy.corp.google.com
 full:uberproxy6.corp.google.com
@@ -78578,6 +78579,7 @@ lvbitte.com
 lvblog.top
 lvbogas.com
 lvcai.biz
+lvcampaign.com
 lvcasinoapp.com
 lvcchong.com
 lvchanghuanbao.com

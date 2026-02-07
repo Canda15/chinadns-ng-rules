@@ -2435,6 +2435,7 @@ hecaitou.net
 hechaji.com
 heeact.edu.tw
 hegre-art.com
+helixstudios.net
 helloandroid.com
 helloqueer.com
 hellouk.org
@@ -5671,6 +5672,7 @@ wikimedia.org
 wikinews.org
 wikipedia.com
 wikipedia.org
+wikis.tw
 wikisource.org
 wikiunblocked.org
 wikiversity.org

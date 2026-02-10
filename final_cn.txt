@@ -34161,6 +34161,7 @@ ddbqgtxt.cc
 ddcdn.com
 ddcheshi.com
 ddcits.com
+ddcorp.net
 ddcsai.com
 ddcsjw.com
 ddcwl.com
@@ -34180,6 +34181,7 @@ ddedush.com
 ddegame.cn
 ddfans.com
 ddfchina.com
+ddfresh.net
 ddfzb.com
 ddgjjj.com
 ddgowu331.com
@@ -34212,7 +34214,9 @@ ddkt365.com
 ddky.com
 ddle.cc
 ddlequ.com
+ddmaicai.net
 ddmap.com
+ddmc.mobi
 ddmer.com
 ddmogo.com
 ddnddn.com
@@ -63340,6 +63344,7 @@ imaginecup.pl
 imags-google.com
 imahui.com
 imaibo.net
+imaicai.mobi
 imaicool.com
 imaijia.com
 imaitu.com

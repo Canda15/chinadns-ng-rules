@@ -1021,6 +1021,7 @@ douchi.space
 dougscripts.com
 doujincafe.com
 download.aircrack-ng.org
+download.dappcdn.com
 dpool.top
 dpp.org.tw
 dpr.info
@@ -4180,7 +4181,6 @@ z-library.ec
 z-library.sk
 zalmos.com
 zamimg.com
-zaobao.com.sg
 zaochenbao.com
 zattoo.com
 zb.com

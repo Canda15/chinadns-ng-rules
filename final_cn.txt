@@ -45952,6 +45952,7 @@ full:is5.mzstatic.com
 full:itunes-apple.com.akadns.net
 full:itunes.apple.com
 full:itunesconnect.apple.com
+full:izattime.qcomgeo2.com
 full:js-cdn.music.apple.com
 full:km.support.apple.com
 full:ksn-cinfo-geo.kaspersky-labs.com
@@ -46247,6 +46248,7 @@ full:www.support.apple.com
 full:www4-static.gog-statics.com
 full:xn--flw351e.com
 full:xp.apple.com
+full:xtratime.qcomgeo2.com
 full:xz.pphimalayanrt.com
 fullcopecb.icu
 fullde.com

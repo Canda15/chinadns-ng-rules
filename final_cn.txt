@@ -11581,7 +11581,6 @@ aactp.net
 aad5.com
 aadcloud.com
 aadongman.com
-aadrm.cn
 aads-cng.net
 aafanke.cc
 aafxw.com
@@ -11810,7 +11809,6 @@ acegameloft.com
 acejoy.com
 acelamicro.com
 aceoo.com
-acer.com.cn
 acesheep.com
 acetace.com
 acetaffy.club
@@ -12031,7 +12029,6 @@ adhudong.com
 adi-whatsepp.com
 adianshi.com
 adicon.com.cn
-adidas.com.cn
 adiexpress.com
 adigifactory.com
 adiic.com
@@ -14114,13 +14111,9 @@ amazfit.com
 amazingseasuncdn.com
 amazingsys.com
 amazom-update.com
-amazon.cn
-amazonaws.cn
 amazonaws.com
-amazonaws.com.cn
 amazoncloud.cn
 amazons.cloud
-amazonwebservices.com.cn
 ambassadorchina.com
 amberbj.com
 amberedu.com
@@ -14222,7 +14215,6 @@ amzdh.com
 amzkeys.com
 amzmm.com
 amzndns-cn.biz
-amzndns-cn.cn
 amzndns-cn.com
 amzndns-cn.net
 amztrends.com
@@ -15006,7 +14998,6 @@ apowersoft.cn
 apowo.com
 apowogame.com
 apoyl.com
-app-analytics-services-att.com
 app-analytics-services.com
 app-distribution-cn.djicdn.com
 app-distribution-download.djicdn.com
@@ -15087,7 +15078,6 @@ appldnld.apple.com
 appldnld.g.aaplimg.com
 apple-banana-pear.com
 apple-cloudkit.com
-apple-dns.cn
 apple-dns.net
 apple-mapkit.com
 apple-x2.xyz
@@ -15668,7 +15658,6 @@ asuoka.com
 asuonline.cn
 asurada.zone
 asus-sh.com
-asus.com.cn
 asuscomm.cn
 asussmart.com
 asustor.cloud
@@ -16223,7 +16212,6 @@ awsok.com
 awsonamazon.com
 awspaas.com
 awspony.com
-awsstatic.cn
 awstar.net
 awtmt.com
 awuming.com
@@ -16380,7 +16368,6 @@ azhituo.com
 azhubaby.com
 azino777-site.com
 azjy88.com
-azk8s.cn
 azmcode.com
 azonete.com
 azooo.com
@@ -16391,16 +16378,8 @@ azpdl.com
 azpdl.net
 azt365.com
 azuiblc.com
-azure-api.cn
-azure-automation.cn
-azure-devices.cn
-azure-dns-1.cn
-azure-dns-2.cn
-azure-dns-3.cn
-azure-dns.cn
 azure-wave.com
 azure.cc
-azure.cn
 azureflying.com
 azuremigrate.download.prss.microsoft.com
 azuremigratetest.download.prss.microsoft.com
@@ -19085,7 +19064,6 @@ binfenyeke.com
 binfenyingyu.com
 binfenzhilv.com
 bing-x.com
-bing.com.cn
 bing400.com
 bingchenghuyu.cn
 bingchenvacuum.com
@@ -20409,7 +20387,6 @@ bmtrip.com
 bmw-afc.com.cn
 bmw-brilliance.cn
 bmw-emall.cn
-bmw.com.cn
 bmw8033.com
 bmwallpaper.com
 bmwchina.cloud
@@ -20696,7 +20673,6 @@ bookedu.com
 bookersea.com
 bookfedex.com
 bookfeel.com
-booking.cn
 booking001.com
 booking002.com
 bookingtee.com
@@ -22461,7 +22437,6 @@ cankaoxiaoxi.com
 cankaoxx.com
 canlanjy.com
 cannelton.org
-canon.com.cn
 canonpumps.com
 canpdu.com
 canpoint.net
@@ -24295,7 +24270,6 @@ cfsuper.com
 cftcredit.com
 cftea.com
 cftecgroup.com
-cftest6.cn
 cftest7.com
 cftest8.com
 cftsupport.com
@@ -25788,9 +25762,6 @@ chinaclean.org
 chinacleanexpo.com
 chinaclear.cn
 chinacljt.com
-chinacloudapi.cn
-chinacloudapp.cn
-chinacloudsites.cn
 chinacma.org
 chinacmo.com
 chinacnd.com
@@ -27895,8 +27866,6 @@ cloudflarestaging.com
 cloudflarestoragegw.com
 cloudfoshan.com
 cloudfront-cn.net
-cloudfront-test.cn
-cloudfront.cn
 cloudfuqing.com
 cloudganzhou.com
 cloudgap.net
@@ -33607,7 +33576,6 @@ dcmk17.com
 dcn01.ps4.update.playstation.net
 dcn01.ps5.update.playstation.net
 dcnimcloud.com
-dcocsp.cn
 dcpc.com
 dcpfb.com
 dcpsd.com
@@ -36186,7 +36154,6 @@ doubilm.com
 doubimeizhi.com
 doublearrow.net
 doubleclick-cn.net
-doubleclick.cn
 doubleclick.net
 doublecoinholdings.com
 doubleeagle-group.com
@@ -37008,7 +36975,6 @@ duolexing.com
 duolexq.com
 duolie.com
 duoliheng.com
-duolingo.cn
 duoliucui.com
 duoluodeyu.com
 duomai.com
@@ -37078,7 +37044,6 @@ duplo-shandong.com
 dupola.net
 dur9.com
 duread8.com
-durex.com.cn
 durianclicks.com
 durkcell.com
 durkeesox.net
@@ -38015,7 +37980,6 @@ ebaolife.net
 ebaoquan.org
 ebaotech.com
 ebasset.com
-ebay.cn
 ebay.gd
 ebb6ea72919edea2.com
 ebbcb476210291.beer
@@ -39701,7 +39665,6 @@ etlong.com
 etmoc.com
 etmtoy.com
 etmwanju.com
-etnetchina.com.cn
 etocrm.com
 etokzt.site
 etolies.com
@@ -40803,7 +40766,6 @@ fareastcontainers.com
 farenhui.com
 farennews.com
 farerdak.com
-farfetch.net.cn
 farfir.com
 faria.cn
 farisl.com
@@ -46347,7 +46309,6 @@ giftsbeijing.com
 gifu-pr.com
 giga-da.com
 giga-science.com
-gigabyte.cn
 gigaget.com
 gigaset.com
 gigbl.com
@@ -46517,7 +46478,6 @@ gk99.com
 gkcyc.com
 gkczgs.com
 gkczp.com
-gkecnapps.cn
 gkfb.com
 gkgzj.com
 gkhxtc.com
@@ -46752,7 +46712,6 @@ globalpmx.com.cn
 globalsase.com
 globalscanner.com
 globalsellingcommunity.cn
-globalsign.cn
 globalsign.com
 globalsigncdn.com
 globalslb.net
@@ -47445,7 +47404,6 @@ googleapis-cn.com
 googleapis.com
 googleapps-cn.com
 googlebbs.net
-googlecnapps.cn
 googledownloads.cn
 googleflights-cn.net
 googleflights.net
@@ -48088,7 +48046,6 @@ gst.com.cn
 gst.prod.dl.playstation.net
 gstarcad.com
 gstatic-cn.com
-gstatic.cn
 gstatic.com
 gsthq.com
 gstonegames.com
@@ -48523,7 +48480,6 @@ guba.com
 guba163.com
 gubaike.com
 gubo.org
-gucci.cn
 gucciblog.net
 guccistar.com
 gucheng.com
@@ -60485,7 +60441,6 @@ icloud-cdn.icloud.com.akadns.net
 icloud-content.com
 icloud-power.com
 icloud.cdn-apple.com
-icloud.cn
 icloud.com
 icloud.com.cn
 icloudcity.com
@@ -61353,7 +61308,6 @@ ikcw.com
 ikdays.com
 ikdmjx.com
 ike-global.com
-ikea.cn
 ikebukuro777.org
 ikeled.com
 ikemeng.com
@@ -61983,9 +61937,6 @@ ingdan.com
 ingeek.com
 ingenic.com
 ingersollrandvpn.cn
-ingka-dt.cn
-ingka-internal.cn
-ingka-system.cn
 ingkee.com
 ingping.com
 ingping.net
@@ -74390,7 +74341,6 @@ linkedbyx.com
 linkedcare.cn
 linkedhope.com
 linkedin-event.com
-linkedin.cn
 linkedkeeper.com
 linkedme.cc
 linkedsee.com
@@ -78272,13 +78222,11 @@ mccchina.com
 mcchcdn.com
 mccshhospital.com
 mcd.cc
-mcd.cn
 mcd.com.cn
 mcdchina.net
 mcdemo.show
 mcdnsgcc.com.cn
 mcdonalds.cn
-mcdonalds.com.cn
 mcdsusan.com
 mcdvisa.com
 mcearnmore.com
@@ -78433,7 +78381,6 @@ me361.com
 me4399.com
 meadevic.com
 meadin.com
-meadjohnson.com.cn
 meaningfulcloud.com
 meanwell.cc
 mearicloud.cn
@@ -81526,7 +81473,6 @@ muidar.com
 muimg.com
 muin.cc
 muinsoft.com
-muji.com.cn
 mujiangquan.com
 mujihotel-beijing.com
 mujin.net
@@ -83815,8 +83761,6 @@ ninjadq.com
 ninomiya.store
 nint.com
 nintaus.com
-nintendoswitch.cn
-nintendoswitch.com.cn
 ninthpalace360.com
 ninthpalace520.com
 nintyinc.com
@@ -85404,7 +85348,6 @@ ntmyexp.com
 ntneuro.org
 ntnt.vip
 ntp.felixc.at
-ntp.org.cn
 ntp123.com
 ntpcb.com
 ntpcn.com
@@ -85584,7 +85527,6 @@ nw-host.com
 nw0898.com
 nwafu.edu.cn
 nwbiotec.com
-nwcdcloud.cn
 nwcl.com.cn
 nwct.me
 nwdcloud.com
@@ -85958,7 +85900,6 @@ oemsaas.cn
 oemsaas.shop
 oemsoc.download.prss.microsoft.com
 oemsocuat.download.prss.microsoft.com
-oemssl.cn
 oemssl.cn.cdn.cloudflare.net
 oeob.net
 oepkgs.net
@@ -87405,7 +87346,6 @@ panaihua.com
 panaos.cn
 panasiashipping.com
 panasonic-door.com
-panasonic.cn
 panasonicmall.com
 panawincn.com
 panbaidu.net
@@ -92688,7 +92628,6 @@ quickapp.cn
 quickbass.com
 quickcan.com
 quickcep.com
-quickconnect.cn
 quickddns.com
 quickdetection.com
 quickingdata.com
@@ -94709,7 +94648,6 @@ rpaii.com
 rpfieldcdn.com
 rpg520.com
 rpg99.com
-rpglogs.cn
 rpgmoba.com
 rpgsw.cn
 rpo5156.com
@@ -99541,7 +99479,6 @@ shopchaoren.com
 shopcider.cn
 shopdora.cn
 shopdora.com
-shopee.cn
 shopeecb.cn
 shopeeok.com
 shopeesell.com
@@ -103154,7 +103091,6 @@ starbaby.cc
 starbaby.com
 starbaysoft.com
 starbucks.cn
-starbucks.com.cn
 starcatzx.com
 starcharge.com
 starchinahz.com.cn
@@ -104874,7 +104810,6 @@ synnchem.com
 synochip.com
 synodc.com
 synology-cn.com
-synology.cn
 synology.com
 synologyssb.com
 syntao.com
@@ -107621,7 +107556,6 @@ tesexiu.com
 teshenqi.com
 tesight.com
 tesiro.com
-tesla.cn
 tesolsh.com
 tesoon.com
 test-cignacmb.com
@@ -107640,7 +107574,6 @@ testict.com
 testin.cn
 testingpai.com
 testinsight.net
-testipv6.cn
 testjp.globalsign.com
 testlrq.com
 testmart.cn
@@ -110182,7 +110115,6 @@ trusple.com
 trust-im.com
 trust-mro.com
 trust-one.com
-trust-provider.cn
 trust.citic
 trust400.com
 trusta-lawyer.com
@@ -110923,7 +110855,6 @@ tvants.com
 tvapk.com
 tvapk.net
 tvbbj.com
-tvbc.com.cn
 tvblack.com
 tvcbj.com
 tvcbook.com
@@ -111483,7 +111414,6 @@ ublese.com
 ubmconlinereg.com
 ubmsinoexpo.com
 ubnt.com
-ubnt.com.cn
 uboat100.com
 uborn.net
 ubox.cn
@@ -111750,7 +111680,6 @@ uhut.com
 uhzcdn.com
 ui-lab.com
 ui.cn
-ui.com.cn
 ui100day.com
 ui63.com
 uibe.edu.cn
@@ -113016,7 +112945,6 @@ veelink.com
 veeqi.net
 veer.com
 veervr.tv
-veet.com.cn
 veeteam.com
 veevlink.com
 veew-alb-cn1.com
@@ -113450,7 +113378,6 @@ virtualworld.pub
 virtupharmako.com
 virtusize.com.cn
 virusdefender.net
-visa.cn
 visa027.com
 visa163.com
 visa198.com
@@ -114368,7 +114295,6 @@ wallstreetcn.com
 wallswitch.com
 walltu.com
 wallyt.net
-walmart.cn
 walmartecom.cn
 walmartmobile.cn
 walre.com
@@ -116967,7 +116893,6 @@ windows11.pro
 windows222.top
 windows7en.com
 windows8.hk
-windowsazure.cn
 windowscommunity.net
 windowsmarketplace.com
 windowsphone-int.com
@@ -123299,7 +123224,6 @@ xtong-solar.com
 xtongs.com
 xtoobmo.xyz
 xtooltech.com
-xtracloud.cn
 xtransfer.cn
 xtransfer.com
 xtransfer.sg
@@ -127621,7 +127545,6 @@ yorkasia.com
 yorlaw.com
 yorui.net
 yoseleather.com
-yostar.cn
 yostar.net
 yostatic.com
 yotocloud.com
@@ -130271,7 +130194,6 @@ z-tek.com
 z-trip.cn
 z-xin.net
 z.ai
-z.cn
 z.wiki
 z0.cc
 z01.com

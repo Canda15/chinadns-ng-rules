@@ -185,9 +185,12 @@ angela-merkel.de
 angola.org
 angularjs.org
 aniscartujo.com
+annas-archive.gd
+annas-archive.gl
 annas-archive.in
 annas-archive.li
 annas-archive.org
+annas-archive.pk
 annas-archive.pm
 annas-archive.se
 anobii.com
@@ -2346,7 +2349,6 @@ mediafreakcity.com
 mediawiki.org
 medium.com
 meee.com.tw
-meetup.com
 mega.co.nz
 mega.io
 mega.nz
@@ -2923,7 +2925,6 @@ pursuestar.com
 putty.org
 pximg.net
 python.com.tw
-pytorch.org
 qbittorrent.org
 qgirl.com.tw
 qi-gong.me

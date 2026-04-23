@@ -761,7 +761,6 @@ chrome.com
 chromecast.com
 chromeexperiments.com
 chromestatus.com
-chromium.org
 ci-en.jp
 cia.gov
 cici.com
@@ -3237,7 +3236,6 @@ southmongolia.org
 southnews.com.tw
 southpark.cc.com
 sowers.org.hk
-soylentnews.org
 spaces.hightail.com
 spacex.com
 spankbang.com

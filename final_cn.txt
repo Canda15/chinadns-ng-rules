@@ -4997,6 +4997,7 @@
 366660.xyz
 366666.net
 36683.com
+366999.com
 3669yx.com
 366club.com
 366ec.com
@@ -7804,6 +7805,7 @@
 5918656.com
 5918dyw.com
 591918.com
+591adb.com
 591con.com
 591hx.com
 591jz.com
@@ -31948,6 +31950,7 @@ ctfund.com
 ctg.cn
 ctg.com.cn
 ctgapp.com
+ctgcdn.biz
 ctgcdn.com
 ctghealthy.com
 ctghr.com
@@ -33745,6 +33748,7 @@ dayishengwu.com
 dayitea.com
 dayiwater.com
 dayong.name
+dayonglaw.com
 dayoo.com
 dayoptics.com
 dayrui.com
@@ -35961,6 +35965,7 @@ dnsabc.com
 dnsany.com
 dnsapi.cn
 dnsapi12.com
+dnsbbz.com
 dnsbbzj.com
 dnsbubu.com
 dnsce.com
@@ -36519,6 +36524,7 @@ doubaijiu.com
 douban.com
 douban.fm
 doubanio.com
+doubao-dev.com
 doubao.com
 doubaocdn.com
 doubaozhidao.com
@@ -39031,6 +39037,7 @@ ehejun.com
 ehengjian.com
 eheren.com
 ehetech.com
+ehewen.com
 eheyin.com
 ehfly.com
 ehijoy.com
@@ -42610,6 +42617,7 @@ flclb.com
 flduo.com
 fle078.com
 flebm.com
+fledgecloud.com
 fleeper.com
 fleetlogd.com
 fleety.com
@@ -42718,6 +42726,7 @@ flyingeffect.com
 flyingpigeon1936.com
 flyingvoice.net
 flyinsono.com
+flylinking.com
 flyme.cn
 flyme.com
 flyme.net
@@ -45374,6 +45383,7 @@ gavill.com
 gavindesign.com
 gavinzh.com
 gaxgame.com
+gaxify.com
 gaxrmyy.com
 gayzyhh.com
 gaze.run
@@ -57848,6 +57858,7 @@ htsprings.com
 httdsj.com
 htths.com
 httingshu.com
+http-dns.com
 http3.lol
 httpcanary.com
 httpcn.com
@@ -58779,6 +58790,7 @@ huilongtech.com
 huilunbio.com
 huilv8.com
 huilvbiao.com
+huilvhuansuanqi.com
 huilvwang.com
 huilvyankuang.com
 huilw.com
@@ -80374,6 +80386,7 @@ mingjian365.com
 mingjignfang.com
 mingjinglu.com
 mingjiudu.com
+mingjun2008.com
 mingjuyoupin.com
 mingkj.com
 minglian.com
@@ -81045,6 +81058,7 @@ mobrtb.com
 mobsdks.com
 mobsurl.com
 mobtou.com
+mobturing.com
 mobvista.com
 mobvoi.com
 mobwan.com
@@ -87633,6 +87647,7 @@ ovuwork.com
 ovxe.com
 owalle.com
 oway.mobi
+owdct.com
 oweb.cn
 owecn.com
 oweidata.com
@@ -93564,6 +93579,7 @@ qytnode.com
 qytranslation.com
 qytst.com
 qytxhy.com
+qyue.org
 qyunapp.com
 qyuner.com
 qyuns.net
@@ -96287,6 +96303,7 @@ sansistellar.com
 sansitech.com
 sansky.net
 santaihu.com
+santainews.com
 santanjob.com
 santelvxing.com
 santezjy.com
@@ -104771,6 +104788,7 @@ suyougame.cn
 suyougame.com
 suyuantuliao.com
 suyuening.com
+suyueyun.com
 suyugame.com
 suyujoy.com
 suyun.net
@@ -109068,6 +109086,7 @@ time-weekly.com
 time-year.com
 time.edu.cn
 time.izatcloud.net
+timecloud.us
 timecoo.com
 timedg.com
 timedl.com
@@ -109767,6 +109786,7 @@ toec-gdgs.com
 toec-iot.com
 toec.com
 toecsec.com
+toewin.com
 tofba.com
 tofeat.com
 tofengmi.com
@@ -119212,6 +119232,7 @@ ww2bbs.net
 ww8899.com
 wwads.cn
 wware.org
+wwchicun.com
 wwei.cn
 wwejds.com
 wwekndrs.com
@@ -120324,8 +120345,10 @@ xdnice.com
 xdnote.com
 xdnphb.com
 xdns.cn
+xdnsvip.biz
 xdnsvip.com
 xdnsvip.info
+xdnsvip.net
 xdocin.com
 xdowns.com
 xdp8.cn

@@ -2,13 +2,13 @@
 
 自动聚合多个源的域名列表 (CN直连 / GFW被墙)。
 
-- **上次更新**: 2026-04-28 21:10:19
+- **上次更新**: 2026-04-29 21:09:26
 
 ## 📊 汇总统计
 
 | 类型 | 文件名 | 规则总数 | 文件大小 |
 | :--- | :--- | :--- | :--- |
-| **CN (直连)** | **final_cn.txt** | **134478** | **1.7M** |
+| **CN (直连)** | **final_cn.txt** | **133916** | **1.7M** |
 | **GFW** | **final_gfw.txt** | **4243** | **56K** |
 
 ## 📂 详细来源文件
@@ -18,10 +18,10 @@
 | :--- | :--- | :--- | :--- |
 | **自定义** | mycn.txt | 388 | 8.0K |
 | Felixonmars | cn-dnsmasq-china-list.txt | 116113 | 1.5M |
-| Pexcn | cn-chinadns-ng.txt | 116858 | 1.5M |
+| Pexcn | cn-chinadns-ng.txt | 116273 | 1.5M |
 | Xmdhs | cn-ext-chnlist.txt | 28045 | 340K |
-| Loyal (Direct) | cn-v2ray-direct.txt | 117183 | 1.5M |
-| Loyal (China) | cn-v2ray-china.txt | 116698 | 1.5M |
+| Loyal (Direct) | cn-v2ray-direct.txt | 116619 | 1.5M |
+| Loyal (China) | cn-v2ray-china.txt | 116113 | 1.5M |
 | Loyal (Google) | cn-v2ray-googlecn.txt | 65 | 4.0K |
 | ACL4SSR | cn-acl4ssr-clash.txt | 609 | 8.0K |
 
@@ -30,5 +30,5 @@
 | :--- | :--- | :--- | :--- |
 | **自定义** | mygfw.txt | 16 | 4.0K |
 | Pexcn | gfw-chinadns-ng.txt | 4221 | 56K |
-| Loyal (GFW) | gfw-v2ray.txt | 4204 | 56K |
+| Loyal (GFW) | gfw-v2ray.txt | 4205 | 56K |
 

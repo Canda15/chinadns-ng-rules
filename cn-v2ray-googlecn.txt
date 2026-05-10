@@ -8,7 +8,6 @@ app-measurement-cn.com
 app-measurement.com
 bdn.dev
 cc-dt.com
-chromium.org
 crashlytics.com
 dartsearch-cn.net
 dartsearch.net
@@ -21,7 +20,6 @@ gongyichuangyi.net
 google-analytics-cn.com
 google-analytics.com
 google.com
-googleadapis.com
 googleads.com
 googleadservices-cn.com
 googleadservices.com
@@ -52,14 +50,10 @@ oasisfeng.com
 oingo.com
 pki.goog
 pxcc.com
-qatp1.net
-qcpp1.net
 qiao-cn.com
-qpdp1.net
 recaptcha-cn.net
 recaptcha.net
 urchin.com
 widevine.com
-xn--flw351e.com
 xn--ngstr-lra8j.com
 youtubeeducation.com

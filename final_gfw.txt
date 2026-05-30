@@ -817,7 +817,6 @@ cn.theaustralian.com.au
 cn.uptodown.com
 cna.com.tw
 cnbbnews.wordpress.com
-cnbc.com
 cnbeta.com.tw
 cnd.org
 cnnews.chosun.com
@@ -3243,7 +3242,6 @@ socialblade.com
 socks-proxy.net
 sockslist.net
 socrec.org
-softether-download.com
 softether.co.jp
 softether.org
 softfamous.com
@@ -4191,7 +4189,6 @@ yeyeclub.com
 yfsp.tv
 yhcw.net
 yibaochina.com
-yidio.com
 yigeni.com
 yipub.com
 yizhihongxing.com

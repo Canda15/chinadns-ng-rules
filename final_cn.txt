@@ -59372,7 +59372,6 @@ infomorning.com
 infong.net
 infoobs.com
 infoq.cn
-infoq.com
 infoqstatic.com
 inforbus.com
 infore.com
@@ -59795,7 +59794,6 @@ ioxcdn.com
 ioxqm.com
 ioxunyun.com
 ip-100.com
-ip-cdn.com
 ip-com.com.cn
 ip-guard.net
 ip-hercules.com

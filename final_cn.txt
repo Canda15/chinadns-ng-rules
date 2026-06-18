@@ -2960,6 +2960,7 @@
 1hai.cn
 1haigtm.com
 1haitao.com
+1haitun.com
 1hangye.com
 1haogu.com
 1haosuo.com
@@ -28602,6 +28603,7 @@ cor-games.com
 coralglobal.cn
 coralset.com
 core-biopharma.com
+core-flow.org
 corebai.com
 coreesports.net
 corefly.cn
@@ -34594,6 +34596,7 @@ dotfashion.cn
 dotgate.com
 dothantech.com
 doticloud.com
+dotreamexpo.com
 dotty-china.com
 dotwe.org
 dou.bz
@@ -36899,6 +36902,7 @@ efficient.hk
 effie.co
 effirst.com
 efglobal-gy.com
+efindtravel.com
 efivestar.com
 efl-tech.com
 eflabs.cn
@@ -42620,6 +42624,7 @@ gala-v.com
 galags.com
 galapand.com
 galaxix.com
+galaxy-adx.com
 galaxy-geely.com
 galaxy-immi.com
 galaxyappstore.cn
@@ -49274,6 +49279,7 @@ gzsg.org
 gzsgczb.com
 gzshaudio.com
 gzsheraton.com
+gzshik.com
 gzshiran.com
 gzshuangbao.com
 gzshuimh.com
@@ -70944,6 +70950,7 @@ lingxigames.com
 lingxing.com
 lingxingerp.com
 lingxingkj.com
+lingxingxinli.com
 lingxiuwenlv.com
 lingxmall.com
 lingy.cc
@@ -90647,6 +90654,7 @@ ruixunidc.com
 ruixunidc.net
 ruiyang-ra.com
 ruiyin999.cn
+ruiying.online
 ruiying3d.com
 ruiyingkeji.com
 ruiyitech.com
@@ -106068,6 +106076,7 @@ typicalchn.com
 typora.net
 typoraio.cn
 typrotech.com
+typstify.com
 tyqian.com
 tyqxzx.com
 tyrantg.com
@@ -106384,6 +106393,7 @@ uccbikes.com
 uccpd.com
 ucdchina.com
 ucdn.net
+ucdns22.com
 ucdns7.com
 ucdok.com
 ucdrs.net
@@ -114957,6 +114967,7 @@ xiaohebook.com
 xiaoheihe.cn
 xiaoheihegame.com
 xiaoheima.com
+xiaoheiribao.com
 xiaoheiyun.net
 xiaohelive.com
 xiaohengmaidan.com
@@ -118296,6 +118307,7 @@ xyhvip.cn
 xyhygs.com
 xyict.com
 xyimg.net
+xyingsoft.com
 xyj.link
 xyj321.com
 xyj618.com
@@ -128756,6 +128768,7 @@ zuiyouxi.com
 zuizhifu.com
 zuji360.com
 zujiant.com
+zujingpai.com
 zujuan.com
 zujuanku.com
 zujuanyi.com

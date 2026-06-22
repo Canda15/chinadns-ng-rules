@@ -2,13 +2,13 @@
 
 自动聚合多个源的域名列表 (CN直连 / GFW被墙)。
 
-- **上次更新**: 2026-06-21 21:18:06
+- **上次更新**: 2026-06-22 22:06:02
 
 ## 📊 汇总统计
 
 | 类型 | 文件名 | 规则总数 | 文件大小 |
 | :--- | :--- | :--- | :--- |
-| **CN (直连)** | **final_cn.txt** | **129377** | **1.6M** |
+| **CN (直连)** | **final_cn.txt** | **129403** | **1.6M** |
 | **GFW** | **final_gfw.txt** | **4380** | **60K** |
 
 ## 📂 详细来源文件
@@ -17,11 +17,11 @@
 | 来源 | 临时文件名 | 数量 | 大小 |
 | :--- | :--- | :--- | :--- |
 | **自定义** | mycn.txt | 388 | 8.0K |
-| Felixonmars | cn-dnsmasq-china-list.txt | 111969 | 1.4M |
-| Pexcn | cn-chinadns-ng.txt | 112127 | 1.4M |
+| Felixonmars | cn-dnsmasq-china-list.txt | 111920 | 1.4M |
+| Pexcn | cn-chinadns-ng.txt | 112078 | 1.4M |
 | Xmdhs | cn-ext-chnlist.txt | 27555 | 336K |
-| Loyal (Direct) | cn-v2ray-direct.txt | 112530 | 1.4M |
-| Loyal (China) | cn-v2ray-china.txt | 111964 | 1.4M |
+| Loyal (Direct) | cn-v2ray-direct.txt | 112560 | 1.4M |
+| Loyal (China) | cn-v2ray-china.txt | 111969 | 1.4M |
 | Loyal (Google) | cn-v2ray-googlecn.txt | 59 | 4.0K |
 | ACL4SSR | cn-acl4ssr-clash.txt | 609 | 8.0K |
 

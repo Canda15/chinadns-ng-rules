@@ -8356,6 +8356,7 @@
 71lady.com
 71nc.cn
 71p.net
+71shi.net
 71tao.com
 71tech.com
 71txt.com
@@ -9559,6 +9560,7 @@
 8liuxing.com
 8llp.com
 8lun.com
+8m2.net
 8m8t.com
 8mcn.com
 8mhh.com
@@ -13653,6 +13655,7 @@ aniu.com
 aniu.so
 aniu.tv
 aniworld.tv
+anixplayer.net
 anjgas.com
 anji-ceva.com
 anji-logistics.com
@@ -26022,6 +26025,7 @@ cikelink.com
 cilgroup.org
 cilin.org
 cilishenqi.cc
+cilisouou.com
 cilizhai.cn
 cilogo.com
 cim2025.net
@@ -31461,7 +31465,6 @@ dandang.org
 dandanhou.net
 dandanjiang.tv
 dandanman.com
-dandanplay.com
 dandantang.com
 dandanvoice.com
 dandanz.com
@@ -50485,6 +50488,7 @@ haowanyou.com
 haowen100.com
 haowenbo.com
 haowenshi.com
+haowenti.net
 haowu.com
 haowu.link
 haowusong.com
@@ -61344,6 +61348,7 @@ jfbym.com
 jfchinese.com
 jfcjt.com
 jfcoo.com
+jfcoop.com
 jfcorp.cn
 jfdaily.com
 jfedu.net
@@ -77010,6 +77015,7 @@ molilier.com
 molimoli.tech
 moliplayer.com
 molipy.com
+moliranran.com
 molishe.com
 molixiangce.com
 moliyuezi.com
@@ -81888,6 +81894,7 @@ oemsoc.download.prss.microsoft.com
 oemsocuat.download.prss.microsoft.com
 oemssl.cn.cdn.cloudflare.net
 oemxitong.com
+oend.net
 oeob.net
 oepkgs.net
 oepkgs.org
@@ -108637,6 +108644,7 @@ vsyy.net
 vt-pharm.com
 vtache.com
 vtcsy.com
+vtdd.vip
 vteamgroup.com
 vtears.com
 vtepai.com
@@ -112538,6 +112546,7 @@ wsimen.com
 wsipv6.com
 wsisp.com
 wsisp.net
+wsjqnmmrmv.world
 wsjtxia.com
 wskam.com
 wskj16818.xyz
@@ -124728,6 +124737,7 @@ zggtxhw.com
 zggua.com
 zggwy.com
 zggwy.org
+zggx100.com
 zggxgp.com
 zggxhj.com
 zggxlbc.com

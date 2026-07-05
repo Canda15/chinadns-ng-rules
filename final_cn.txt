@@ -13725,6 +13725,7 @@ anqingonline.com
 anqingzhiyun.com
 anqn.com
 anqu.com
+anquan
 anquan.info
 anquan.org
 anquanbao.com
@@ -41449,6 +41450,7 @@ full:edge.geo.kaspersky.com
 full:emoi-cncdn.bing.com
 full:end-api.shallow.ink
 full:end.shallow.ink
+full:entitlements-edge.itunes.apple.com
 full:experiments.apple.com
 full:f.c2r.ts.cdn.office.net
 full:fcs.dell.com
@@ -41457,6 +41459,7 @@ full:firebase-settings.crashlytics.com
 full:fontfiles.googleapis.com
 full:fonts.googleapis.com
 full:fonts.gstatic.com
+full:fpinit.itunes.apple.com
 full:fta.dell.com
 full:ftaapj.dell.com
 full:ftaemea.dell.com
@@ -94755,6 +94758,7 @@ shouhuigroup.com
 shouhuisoft.com
 shouhuojiyun.com
 shouhuola.com
+shouji
 shouji.com
 shouji.racing
 shouji10086.com
@@ -95760,6 +95764,7 @@ simuwang.com
 simwe.com
 simxhs.com
 sin0sites.com
+sina
 sina-cf.com
 sina.cn
 sina.com
@@ -109819,6 +109824,7 @@ weibanio.cn
 weibanzhushou.com
 weibaobao.net.cn
 weibisai.com
+weibo
 weibo.cn
 weibo.com
 weibo.tv
@@ -115205,6 +115211,7 @@ xihazsww.com
 xihegame.com
 xihegp.com
 xiherencai.com
+xihuan
 xihuan.me
 xihusgh.com
 xiimoon.com
@@ -116650,6 +116657,7 @@ xn--9iqr63a1idgz6e.xn--3ds443g
 xn--9iqs25bkvi.xn--czr694b
 xn--9kr72kqwe.com
 xn--9krr90n.xn--55qx5d
+xn--9krt00a
 xn--9myo55bi8l.com
 xn--9pr56vfna007k.com
 xn--9pry86bq5ex68c.org
@@ -122622,6 +122630,7 @@ yumingyouhui.com
 yummy.tech
 yumobi.cn
 yumstone.com
+yun
 yun-ac.com
 yun-dns.com
 yun-gu.com

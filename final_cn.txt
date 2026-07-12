@@ -11261,6 +11261,7 @@ ad7.com
 ad77.com
 ad778.com
 ada-post.com
+adacpp.com
 adam.akamai.com
 adamahf.com
 adamcdn.com
@@ -28191,6 +28192,7 @@ color-measure.com
 color365.com
 colorbird.com
 colorful.cn
+colorfulclouds.com
 colorfulclouds.net
 colorfulltech.net
 colorimeter.com
@@ -35298,6 +35300,7 @@ duoyewu.com
 duoyi.com
 duoying.com
 duoyinsu.com
+duoyiwangluo.com
 duoyoumi.com
 duozhi.com
 duozhuayu.com
@@ -45947,6 +45950,7 @@ gtetern.com
 gtfund.com
 gtfz-erp.com.cn
 gtg56.com
+gtgjtrip.com
 gtgqw.com
 gtgres.com
 gtgz.cn
@@ -67180,6 +67184,7 @@ klgeek.com
 klhpw.com
 klhuyan.com
 klicen.com
+kling-ai.com
 klingai.com
 klingxai.com
 klinlee.com
@@ -69915,6 +69920,7 @@ leyoo.com
 leyou.com
 leyoujia.com
 leyu.com
+leyuansu.com
 leyue100.com
 leyuglobal.com
 leyun365.com
@@ -93680,6 +93686,7 @@ sheca.com
 shedongyun.com
 shedoor.com
 shedunews.com
+shedunews.net
 sheec-tencentclb.cloud
 sheec-tencentclb.com
 sheec-tencentclb.net
@@ -114746,6 +114753,7 @@ xiaomazhixing.com
 xiaomei.cc
 xiaomeiti.com
 xiaomeng1235.com
+xiaomengai.com
 xiaomengschool.com
 xiaomi.cn
 xiaomi.com
@@ -119419,6 +119427,7 @@ ygcooler.com
 ygct.com
 ygdatabase.com
 ygdl.com
+ygduoyi.com
 yge.me
 ygeer.com
 ygei.com
@@ -127638,6 +127647,7 @@ zmsq.com
 zmssh.com
 zmtapi.cn
 zmtpc.com
+zmtqsh.com
 zmtquan.com
 zmu.edu.cn
 zmufivehospital.com

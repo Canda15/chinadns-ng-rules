@@ -703,6 +703,7 @@ centauro.com.br
 centerforhumanreprod.com
 centralnation.com
 centurys.net
+cerebras.ai
 certificate-transparency.org
 certificate.revocationcheck.com
 cfr.org
@@ -783,6 +784,7 @@ chrome.com
 chromecast.com
 chromeexperiments.com
 chromestatus.com
+cht.com.tw
 ci-en.jp
 cia.gov
 cici.com

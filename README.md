@@ -2,13 +2,13 @@
 
 自动聚合多个源的域名列表 (CN直连 / GFW被墙)。
 
-- **上次更新**: 2026-08-23 20:26:33
+- **上次更新**: 2026-08-24 20:33:04
 
 ## 📊 汇总统计
 
 | 类型 | 文件名 | 规则总数 | 文件大小 |
 | :--- | :--- | :--- | :--- |
-| **CN (直连)** | **final_cn.txt** | **128293** | **1.6M** |
+| **CN (直连)** | **final_cn.txt** | **128354** | **1.6M** |
 | **GFW** | **final_gfw.txt** | **4424** | **60K** |
 
 ## 📂 详细来源文件
@@ -17,7 +17,7 @@
 | 来源 | 临时文件名 | 数量 | 大小 |
 | :--- | :--- | :--- | :--- |
 | **自定义** | mycn.txt | 388 | 8.0K |
-| Felixonmars | cn-dnsmasq-china-list.txt | 110769 | 1.4M |
+| Felixonmars | cn-dnsmasq-china-list.txt | 110835 | 1.4M |
 | Pexcn | cn-chinadns-ng.txt | 110927 | 1.4M |
 | Xmdhs | cn-ext-chnlist.txt | 27555 | 336K |
 | Loyal (Direct) | cn-v2ray-direct.txt | 111500 | 1.4M |
@@ -30,5 +30,5 @@
 | :--- | :--- | :--- | :--- |
 | **自定义** | mygfw.txt | 16 | 4.0K |
 | Pexcn | gfw-chinadns-ng.txt | 4392 | 60K |
-| Loyal (GFW) | gfw-v2ray.txt | 4383 | 60K |
+| Loyal (GFW) | gfw-v2ray.txt | 4385 | 60K |
 

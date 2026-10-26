@@ -2,13 +2,13 @@
 
 自动聚合多个源的域名列表 (CN直连 / GFW被墙)。
 
-- **上次更新**: 2026-10-25 22:22:09
+- **上次更新**: 2026-10-26 23:38:34
 
 ## 📊 汇总统计
 
 | 类型 | 文件名 | 规则总数 | 文件大小 |
 | :--- | :--- | :--- | :--- |
-| **CN (直连)** | **final_cn.txt** | **127006** | **1.6M** |
+| **CN (直连)** | **final_cn.txt** | **127008** | **1.6M** |
 | **GFW** | **final_gfw.txt** | **4481** | **60K** |
 
 ## 📂 详细来源文件
@@ -20,7 +20,7 @@
 | Felixonmars | cn-dnsmasq-china-list.txt | 109513 | 1.4M |
 | Pexcn | cn-chinadns-ng.txt | 109672 | 1.4M |
 | Xmdhs | cn-ext-chnlist.txt | 27555 | 336K |
-| Loyal (Direct) | cn-v2ray-direct.txt | 110249 | 1.4M |
+| Loyal (Direct) | cn-v2ray-direct.txt | 110251 | 1.4M |
 | Loyal (China) | cn-v2ray-china.txt | 109513 | 1.4M |
 | Loyal (Google) | cn-v2ray-googlecn.txt | 59 | 4.0K |
 | ACL4SSR | cn-acl4ssr-clash.txt | 609 | 8.0K |

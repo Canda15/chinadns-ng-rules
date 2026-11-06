@@ -19197,6 +19197,7 @@ bsdongxin.com
 bsdt1688.com
 bse.cn
 bsehk.com
+bseinfo.net
 bseqp.com
 bserc.com
 bsfit.com.cn
@@ -24892,7 +24893,6 @@ chuxinhudong.com
 chuxinvip.com
 chuxueyun.com
 chuyaer.com
-chuyu.me
 chuzhaobiao.com
 chuzhou.cn
 chuzhou.gov.cn
@@ -40465,6 +40465,7 @@ full:prod.databe.floonet.goog
 full:publicassets.cdn-apple.com
 full:qiao-cn.com
 full:qpx.googleflights.net
+full:radio.itunes.apple.com
 full:recaptcha-cn.net
 full:recaptcha.net
 full:redirector.bdn.dev
@@ -41359,7 +41360,6 @@ gameley.cn
 gameley.com
 gameloft.com.cn
 gamelook.com.cn
-gameloop.com
 gameloop.fun
 gamelunar.com
 gamemale.com
@@ -57439,7 +57439,6 @@ in-tencentclb.cloud
 in-tencentclb.com
 in-tencentclb.net
 in-tencentclb.work
-in.th
 in001.com
 in66.com
 in800.com
@@ -71099,6 +71098,7 @@ luyecanyin.com
 luyinla.com
 luyinzhushou.com
 luyitong.com
+luyong.com
 luyor.net
 luyouqi.com
 luyouwang.com
@@ -71995,9 +71995,6 @@ magtech.com.cn
 magtechjournal.com
 magvision.com
 magwgc.com
-mahjongai.net
-mahjongcup.com
-mahjongcup.net
 mahoupao.com
 mahua.com
 mai.com
@@ -83420,7 +83417,6 @@ providence-chemicals.com
 provisionsrv.com
 provista-care.com
 prowine-shanghai.com
-proximabeta.com
 proya-group.com
 proya.com
 proyectoarise.es
@@ -90790,6 +90786,7 @@ senra.me
 senrx.com
 sense-hk.com
 senseagro.com
+senseavatar.com
 sensecoreapi.cn
 sensedevil.com
 senselock.com
@@ -100461,8 +100458,6 @@ tetrisone.com
 tetuijiudian.com
 tevachem.com
 tex68.com
-texasholdemcup.com
-texasholdemcup.net
 texeljoy.com
 texindex.com.cn
 texingyuan.com
@@ -101182,6 +101177,7 @@ tidemedia.com
 tidenews.com.cn
 tidepharm.com
 tidesec.com
+tidesight.com
 tideswing.fun
 tidi.mobi
 tidutec.com
@@ -104821,6 +104817,7 @@ upsapp.com
 upseller.com
 upshop.cn
 upskyshanghai.com
+upsort.com
 upsrv.wang
 upst86.com
 upteentube.com
@@ -120593,6 +120590,7 @@ yundongfang.com
 yundonghao.com
 yundongit.com
 yundousoft.com
+yundouxueyuan.com
 yundui.cc
 yunduimedia.com
 yundun-access.com
